@@ -14,4 +14,5 @@ phdPrep_oceanAtmosphericNearEarthPhysics
 
 Съдържание:
 1 - тема №1 Състав и Свойства на морската вода. Термодинамични параметри. Уравнение  на състоянието. Фазови преходи.
+Oceanographya.prof.St.Panchev-compressed_notes1.tar.xz
 
